@@ -1,0 +1,7 @@
+name = Views B4 Full
+description = Views B4 Full
+backdrop = 1.x
+version = 1.x-1.0.0
+type = module
+package = Views
+dependencies[] = views
